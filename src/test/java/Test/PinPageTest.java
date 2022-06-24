@@ -34,6 +34,11 @@ public class PinPageTest {
 		System.out.println(pin);
 		zerodhaPinPage.enterPin(pin,driver);
 		zerodhaPinPage.clickOnContinue();
+		
 		}
-
+	@Test
+	public void demotest()
+	{
+		System.out.println("git demo test");
+	}
 }
